@@ -1,4 +1,4 @@
-# Breadcrumbsreview-on-deepfake-img-detection
+# A review-on-deepfake-img-detection
 This repo is for a review and discussion of deepfake image detection methods.
 ## A list of relevant benchmarks or datasets in this topic:
 1. FaceForensics++: Learning to Detect Manipulated Facial Images: FaceForensics++ is a forensics dataset consisting of 1000 original video sequences that have been manipulated with four automated face manipulation methods: Deepfakes, Face2Face, FaceSwap and NeuralTextures. [repo](https://github.com/ondyari/FaceForensics)
