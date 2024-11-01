@@ -17,3 +17,4 @@ The author compared a Vision Transformer with an EfficientNetV2 on a cross-forge
 4. Taming Transformers for High-Resolution Image Synthesis: The author demonstrated how combining the effectiveness of the induc
 tive bias of CNNs with the expressivity of transformers enabled them to model and thereby synthesize high-resolution images. 
 [repo](https://github.com/CompVis/taming-transformers)
+5. Towards Solving the DeepFake Problem : An Analysis on Improving DeepFake Detection using Dynamic Face Augmentation: The author dynamically cuts out regions of an image using the face landmark information, which helps the model selectively attend to only the relevant regions of the input. [repo](https://github.com/sowmen/face-cutout)
